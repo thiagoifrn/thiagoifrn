@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Thiago Pereira de Souza</h1>
 <h3 align="center">Profissional de tecnologia que está sempre em busca de novos desafios e soluções.</h3>
 
-- 🔭 Atualmente estou trabalhando com Flutter [Projeto privado](privado)
+- 🔭 Atualmente estou trabalhando com Flutter [https://github.com/thiagoifrn/thiagoifrn/](privado)
 
 - 🌱 Estou aprendendo atualmente **ReactJs, Typescript, Java**
 
