@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com Flutter **zupInnovation** (privado)
 
-- 🌱 Estou aprendendo atualmente **ReactJs, Typescript, Java**
+- 🌱 Estou aprendendo atualmente **ReactJs, Typescript, Flutter**
 
 - 👯 Compartilhado conteúdo em canal interno da empresa **Projeto weekly**
 
