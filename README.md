@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **Java, Flutter, ReactJs, SQL e Git**
 
-- 📫 Onde me acham **thiago.developed@gmail.com**
+- 📫 Onde me acham **thiago.developed@gmail.com** ou **84 988981921**
 
 - 📄 Minhas experiências [https://www.linkedin.com/in/thiagopds-developer](https://www.linkedin.com/in/thiagopds-developer)
 
