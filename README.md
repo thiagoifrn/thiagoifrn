@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Thiago Pereira de Souza</h1>
 <h3 align="center">Profissional de tecnologia que está sempre em busca de novos desafios e soluções.</h3>
 
-- 🔭 Atualmente estou trabalhando com Ios **zupInnovation** (privado)
+- 🔭 Atualmente estou trabalhando com iOS **zupInnovation** (privado)
 
 - 🌱 Estou aprendendo atualmente **Swift, swiftUi e Flutter**
 
