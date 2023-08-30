@@ -24,7 +24,7 @@
 ---
 ### Um resumo sobre o meu perfil:
 <div align="center">
-  <a href="https://github.com/luizzlcs">
+  <a href="https://github.com/thiagoifrn">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagoifrn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoifrn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
