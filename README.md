@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, eu sou Thiago Pereira de Souza</h1>
 <h3 align="center">Profissional de tecnologia que está sempre em busca de novos desafios e soluções.</h3>
 
-- 🔭 Atualmente estou trabalhando com iOS **zupInnovation** (privado)
+- 🔭 Atualmente estou trabalhando com Angular **zupInnovation** (privado)
 
-- 🌱 Estou aprendendo atualmente **Swift, swiftUi e Flutter**
+- 🌱 Estou aprendendo atualmente **Angular, Arquitetura de software e TypeScript**
 
 - 👯 Compartilhado conteúdo em canal interno da empresa **Projeto weekly**
 
-- 💬 Me pergunte sobre **Java, Flutter, swift e Git**
+- 💬 Me pergunte sobre **Angular, React, swift e Git**
 
 - 📫 Onde me acham **thiago.developed@gmail.com** ou **84 988981921**
 
