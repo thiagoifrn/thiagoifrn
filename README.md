@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com Angular **zupInnovation** (privado)
 
-- 🌱 Estou aprendendo atualmente **Angular, Arquitetura de software e TypeScript**
+- 🌱 Estou aprendendo atualmente **Angular, Arquitetura de software e NEXTJS**
 
 - 👯 Compartilhado conteúdo em canal interno da empresa **Projeto weekly**
 
