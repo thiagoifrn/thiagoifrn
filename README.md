@@ -3,11 +3,11 @@
 
 - 🔭 Atualmente estou trabalhando com Angular **zupInnovation** (privado)
 
-- 🌱 Estou aprendendo atualmente **Angular, Arquitetura de software e NEXTJS**
+- 🌱 Estou aprendendo atualmente **Angular, Arquitetura de software e MFEs**
 
 - 👯 Compartilhado conteúdo em canal interno da empresa **Projeto weekly**
 
-- 💬 Me pergunte sobre **Angular, React, swift e Git**
+- 💬 Me pergunte sobre **Angular, RxJs, Js e Git**
 
 - 📫 Onde me acham **thiago.developed@gmail.com** ou **84 988981921**
 
